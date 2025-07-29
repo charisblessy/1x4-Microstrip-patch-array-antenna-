@@ -1,0 +1,1 @@
+This project involves the design, simulation, and analysis of a 1×4 microstrip patch array antenna operating at 2.4 GHz The antenna is designed using CST. The array configuration enhances the gain, directivity, and radiation pattern compared to a single patch.
